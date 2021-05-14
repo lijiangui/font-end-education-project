@@ -172,3 +172,39 @@ a {
     text-align: center;
     font-weight: 700;
 }
+
+.goods {
+    height: 60px;
+    background-color: #fff;
+    margin-top: 10px;
+    line-height: 60px;
+    box-shadow: 0 2px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+.goods h3 {
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+    color: #00a4ff;
+}
+.goods ul {
+    float: left;
+    margin-left: 30px;
+}
+.goods ul li {
+    float: left;
+}
+
+.goods ul li a {
+padding: 0 30px;
+font-size: 16px;
+color: #050505;
+border-left: 1px solid #ccc;
+}
+
+.mod {
+    float: right;
+    margin-right: 30px;
+    font-size: 14px;
+    color: #00a4ff;
+}
